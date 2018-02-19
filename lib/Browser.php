@@ -72,6 +72,7 @@ class Browser
     const BROWSER_IPOD = 'iPod'; // http://apple.com
     const BROWSER_IPAD = 'iPad'; // http://apple.com
     const BROWSER_CHROME = 'Chrome'; // http://www.google.com/chrome
+    const BROWSER_CHROMIUM = 'Chromium';
     const BROWSER_ANDROID = 'Android'; // http://www.android.com/
     const BROWSER_GOOGLEBOT = 'GoogleBot'; // http://en.wikipedia.org/wiki/Googlebot
 
